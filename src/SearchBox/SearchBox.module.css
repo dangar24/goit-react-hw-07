@@ -1,0 +1,13 @@
+.container {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.text {
+    font-size: 28px;
+}
+
+.input {
+    height: 24px;
+    width: 300px;
+}

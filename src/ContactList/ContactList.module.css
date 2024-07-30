@@ -1,0 +1,13 @@
+.item {
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 260px;
+}
+
+.list {
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
